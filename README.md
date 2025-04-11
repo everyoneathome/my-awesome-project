@@ -1,2 +1,2 @@
 # my-awesome-project
-my-awesome-project for test
+my-awesome-project for everybody
